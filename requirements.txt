@@ -1,0 +1,4 @@
+pyttsx3
+futures
+pyqt5
+pyqt5-tools
